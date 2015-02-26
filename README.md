@@ -23,13 +23,8 @@ Development will be carried out on my second hand Meade LX90 where I intend to s
 Enhanced goals:
 
 1. Improve web interface responsivenss using websockets.
-
 2. Connect DSLR camera to Pi and control/process via web interface. Feedback live view via websockets? Use gphoto2 and node-gphoto2 node module, processing and processing node module.
- 
 3. Enhance control/monitoring ability eg. dome, battery monitore, etc.
-
 4. Connect Webcam to Pi and control/process via web interface.
-
 5. Enhance scope control. Align scope to allow slewing to specified co-ords, possibly supplied by 3rd party app.
-
 6. Plan is to develop software so any telescope can be controlled with suitable API config information.
